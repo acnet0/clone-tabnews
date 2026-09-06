@@ -1,0 +1,17 @@
+[33mcommit 078dfa8ca7029b8c35e08a33239f41e9ffae8724[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Antonio Carlos Neto <ac.neto@outlook.com.br>
+Date:   Sun Sep 6 01:14:08 2026 +0000
+
+    Adiciona o arquivo .gitignore
+
+ .gitignore | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 6b449470f01d8cf7cd802160452c82a42736cbf9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Antonio Carlos Neto <ac.neto@outlook.com.br>
+Date:   Wed Sep 2 20:36:16 2026 -0300
+
+    Initial commit
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
